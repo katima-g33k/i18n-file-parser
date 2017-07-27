@@ -1,0 +1,4 @@
+node_modules
+*.i18n.csv
+*.i18n.json
+data*
